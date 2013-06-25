@@ -1,4 +1,4 @@
-Change Log
+Change Log For MultiChoice Adapter
 =======================================
 
 Version 2.1.4 *(2013-?-?)*
